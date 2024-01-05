@@ -15,7 +15,9 @@ for (const file of files) {
         const fileData = fs.readFileSync(file);
         const jsonData = JSON.parse(fileData);
         
-        output[jsonData.contractId] = jsonData;
+        if (jsonData.contractId) {
+            output[jsonData.contractId] = jsonData;
+        }
     }
 }
 

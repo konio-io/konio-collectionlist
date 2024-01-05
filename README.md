@@ -8,7 +8,7 @@ The file must be named after the contractId, and its internal structure should b
     "chainId":"EiBncD4pKRIQWco_WRqo5Q-xnXR7JuO3PtZv983mKdKHSQ==",
     "contractId":"1ERh8vnZaghRHmVMLZpRoke8mxTK7vRDup",
     "name":"Konio Ancient",
-    "logo":"https://images.kollection.app/myimage.png"
+    "logo":"https://images.mydomain.com/myimage.png"
 }
 ```
 

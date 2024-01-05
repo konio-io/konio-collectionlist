@@ -1,0 +1,10 @@
+{
+  "name": "konio-collectionlist",
+  "version": "1.0.0",
+  "description": "Konio wallet listed NFT collections",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "author": "E-Time"
+}
